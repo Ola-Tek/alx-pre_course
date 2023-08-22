@@ -1,1 +1,1 @@
-my first readme
+Learning to learn is life's most important task.
